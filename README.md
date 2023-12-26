@@ -1,10 +1,12 @@
 # Olá, me chamo Thomas gabriel!! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🎓 Estou cursando o primeiro semestre em Analise e Desenvolvimento de sistemas na Universidade Paulista - UNIP
+- 🎓 Estou cursando o segundo semestre em Analise e Desenvolvimento de sistemas na Universidade Paulista - UNIP
 - 💻 Sou apaixonado por tecnologia desde pequeno 
 - 🔎 Estou sempre disposto a aprender 
-- 📚 Sou iniciante na área de T.I
+- 📚 atualmente 100% focado em Cibersegurança.
+- aqui no meu GitHub você ira encontrar alguns projetos que mostra um pouco sobre meu conhecimento em programação.
+
 
 
 
